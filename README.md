@@ -1,5 +1,5 @@
 # Python: Jupyter Notebook & Pandas
-Utilizing the interactive Jupyter Notebook environment and the powerful Pandas library, this repository showcases my journey of Python data analysis. I learned the basics of Python, explored real-world datasets, manipulated and visualized data, and crafted data insights with Python's dynamic capabilities.
+Utilizing the interactive Jupyter Notebook environment and the powerful Pandas library, this repository showcases my journey of Python data analysis. I learned the basics of Python, explored real-world datasets, manipulated and visualized data, crafted data insights with Python's dynamic capabilities, and exceuted web scraping.
 ## Skills Demonstrated:
 - Data loading and preprocessing with Pandas.
 - Utilizing Pandas DataFrame for data analysis.
