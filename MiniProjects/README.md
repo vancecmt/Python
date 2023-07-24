@@ -1,0 +1,1 @@
+### A compilation of Python mini projects presented through the interactive Juputer Notebook and the powerful Pandas library. These mini projects indicate that I have a good grasp of the language's fundamentals and my growing proficiency in Python.
